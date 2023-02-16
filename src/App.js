@@ -3,6 +3,7 @@ import Header from './components/public/Header';
 import Accounting from './pages/Accounting';
 import Home from './pages/Home';
 import TodoList from './pages/TodoList';
+import Timer from './pages/Timer';
 
 function Layout() {
   return (
@@ -18,8 +19,8 @@ function App() {
     <Routes>
       <Route path="/" element={<Layout />}>
         <Route path="/" element={<Home />} />
-        <Route path="/accounting" element={<Accounting />} />
         <Route path="/todolist" element={<TodoList />} />
+        <Route path="/timer" element={<Timer />} />
       </Route>
     </Routes>
   );
