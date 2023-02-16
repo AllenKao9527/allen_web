@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/allen__web/static/css/main.a434bc15.css",
-    "main.js": "/allen__web/static/js/main.b42c4b05.js",
-    "index.html": "/allen__web/index.html",
-    "main.a434bc15.css.map": "/allen__web/static/css/main.a434bc15.css.map",
-    "main.b42c4b05.js.map": "/allen__web/static/js/main.b42c4b05.js.map"
+    "main.css": "/allen_web/static/css/main.a434bc15.css",
+    "main.js": "/allen_web/static/js/main.b42c4b05.js",
+    "index.html": "/allen_web/index.html",
+    "main.a434bc15.css.map": "/allen_web/static/css/main.a434bc15.css.map",
+    "main.b42c4b05.js.map": "/allen_web/static/js/main.b42c4b05.js.map"
   },
   "entrypoints": [
     "static/css/main.a434bc15.css",
