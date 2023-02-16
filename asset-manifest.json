@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/allen_web/static/css/main.a434bc15.css",
-    "main.js": "/allen_web/static/js/main.b42c4b05.js",
+    "main.js": "/allen_web/static/js/main.2fd2a197.js",
     "index.html": "/allen_web/index.html",
     "main.a434bc15.css.map": "/allen_web/static/css/main.a434bc15.css.map",
-    "main.b42c4b05.js.map": "/allen_web/static/js/main.b42c4b05.js.map"
+    "main.2fd2a197.js.map": "/allen_web/static/js/main.2fd2a197.js.map"
   },
   "entrypoints": [
     "static/css/main.a434bc15.css",
-    "static/js/main.b42c4b05.js"
+    "static/js/main.2fd2a197.js"
   ]
 }
