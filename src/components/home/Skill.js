@@ -1,6 +1,5 @@
 /** @jsxImportSource @emotion/react */
 import { css } from '@emotion/react';
-import React from 'react';
 
 export default function Skill() {
   const title = css`
@@ -19,31 +18,38 @@ export default function Skill() {
     <div className="border border-lightGray rounded pt-3">
       <div className="max-w-sub mx-auto">
         <div className="text-2xl font-bold">專業技能 Skills</div>
-        <ul>
-          <li>
-            <span className="font-bold relative pl-3" css={title}>
-              前端技能：HTML、CSS、Javascript、JQuery、React.Js、Scss、Bootstrap、tailwind
-            </span>
+        <ul className="pt-2">
+          <li className="pb-1">
+            <p className="relative pl-3">
+              <span className="font-bold" css={title}>
+                前端技能：
+              </span>
+              HTML、CSS、Javascript、JQuery、React.Js、Scss、Bootstrap、Tailwind
+            </p>
           </li>
-          <li>
-            <span className="font-bold relative pl-3" css={title}>
-              後端技能：Node.js、PHP、MySQL、Express
-            </span>
+          <li className="pb-1">
+            <p className="relative pl-3">
+              <span className="font-bold" css={title}>
+                後端技能：
+              </span>
+              Node.js、PHP、MySQL、Express
+            </p>
           </li>
-          <li>
-            <span className="font-bold relative pl-3" css={title}>
-              版本控制：Git、GitHub
-            </span>
+          <li className="pb-1">
+            <p className="relative pl-3">
+              <span className="font-bold" css={title}>
+                版本控制：
+              </span>
+              Git、GitHub
+            </p>
           </li>
-          <li>
-            <span className="font-bold relative pl-3" css={title}>
-              IDE：Visual Studio Code
-            </span>
-          </li>
-          <li>
-            <span className="font-bold relative pl-3" css={title}>
-              其他技能：Figma、npm
-            </span>
+          <li className="pb-1">
+            <p className="relative pl-3">
+              <span className="font-bold" css={title}>
+                其他技能：
+              </span>
+              Figma、npm
+            </p>
           </li>
         </ul>
       </div>

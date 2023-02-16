@@ -22,7 +22,7 @@ export default function Home() {
   return (
     <>
       <div className="border-b border-lightGray mb-6">
-        <ul className="flex gap-5 max-w-main mx-auto py-3">
+        <ul className="flex gap-5 max-w-main mx-auto py-3 px-3">
           {tabs.map((tab) => (
             <li
               key={tab.id}
