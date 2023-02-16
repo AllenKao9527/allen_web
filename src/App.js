@@ -1,6 +1,5 @@
 import { Routes, Route, Outlet } from 'react-router-dom';
 import Header from './components/public/Header';
-import Accounting from './pages/Accounting';
 import Home from './pages/Home';
 import TodoList from './pages/TodoList';
 import Timer from './pages/Timer';
