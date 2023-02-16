@@ -1,8 +1,8 @@
 {
-  "name": "allen__web",
+  "name": "allen_web",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://allenkao9527.github.io/allen__web",
+  "homepage": "https://allenkao9527.github.io/allen_web",
   "dependencies": {
     "@emotion/react": "^11.10.5",
     "@emotion/styled": "^11.10.5",
